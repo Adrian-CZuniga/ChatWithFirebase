@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Easy Chat</string>
+    <string name="developerOwner">Developed by me</string>
+    <string name="txt_1">1</string>
+    <string name="txt_2">2</string>
+    <string name="txt_3">3</string>
+    <string name="txt_inputNumber">Enter mobile number</string>
+    <string name="txt_hint_mobile">Mobile</string>
+    <string name="txt_btnPhoneNumber">Send OTP</string>
+    <string name="ct_iconPhone">Phone icon</string>
+    <string name="txt_OTPLogin">Enter OTP sent to your phone number</string>
+    <string name="txt_OTP">OTP</string>
+    <string name="txt_NEXT">NEXT</string>
+    <string name="txt_resendOTP">Resend OTP in 30 sec</string>
+    <string name="txt_EnterUserName">Enter your username</string>
+    <string name="txt_Username">Username</string>
+    <string name="txt_btnJoin">Let me in</string>
+    <string name="otp_verification">Enter code sms</string>
+    <string name="txt_chats">Chats</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_search_user">Search User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_chat_screen">Chat Screen</string>
+    <string name="txt_profile_screen">Profile Screen</string>
+    <string name="txt_write_message">Write message</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_logout">logout</string>
+    <string name="txt_update_profile">Update profile</string>
+    <string name="txt_save_change">Save change</string>
+
+</resources>
